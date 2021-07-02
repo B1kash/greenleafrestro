@@ -1,0 +1,99 @@
+header {
+    padding: 0px 80px;
+    width: 100%;
+    position:absolute;
+    z-index: 99;
+}
+ 
+
+
+
+.bg-light {
+    background-color: transparent !important;
+}
+.navbar-brand {
+    color: green !important;
+    font-size: xx-large;
+}
+.navbar-nav {
+    
+    padding-left: 230px;
+    
+    
+}
+
+ul.navbar-nav li a.nav-link{
+    color: white !important;
+    padding-left: 290px;
+}
+ul.navbar-nav li a.nav-link:hover{
+    color: plum !important;
+}
+.shrink{
+    background:#fff !important;
+}
+
+
+
+.banner {
+    width: 100%;
+    height: 100vh;
+    background: url(Layer510.png);
+    background-size: auto;
+    background-position: center;
+    padding: 300px 100px;
+    text-align: center;
+    
+}
+
+.banner element.style {
+    text-align: center;
+}
+
+.h4, h4 {
+    font-size: 1.5rem;
+    color: azure;
+}
+
+.card  {
+    margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+}
+.card:hover .card-title{
+    color: green;
+
+}
+.card:hover .btn{
+color: green;
+background-color: white;
+
+}
+.columns {
+    /* background-color: green; */
+    color: white;
+}
+input[type=submit] {
+    background-color: green;
+    color: white;
+    border: 1;
+    size : 50;
+    }
+    input[type=submit] {
+        width: 100%;
+        padding: 10px;
+        margin: 0px 0;
+        display: inline-block;
+        border: 1px solid black;
+        box-sizing: border-box;
+       
+       
+      }
+
+
+
+
+
+
+
+      
